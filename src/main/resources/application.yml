@@ -1,0 +1,12 @@
+data:
+  person:
+    firstname: Ivan
+    lastname: Ivanov
+
+  phone:
+    code: 7
+    number: 1233124
+
+  customer:
+    company: Google
+    country: USA
